@@ -165,13 +165,14 @@ GET /health
 ---
 
 📦 Funcionalidades Implementadas
-📊 Pipeline de treinamento
-🧪 Avaliação de modelos
-📈 Tracking com MLflow
-🚀 API de inferência
-📦 Versionamento de modelos
-☸️ Estrutura pronta para Kubeflow
-🐳 Docker
+
+- 📊 Pipeline de treinamento
+- 🧪 Avaliação de modelos
+- 📈 Tracking com MLflow
+- 🚀 API de inferência
+- 📦 Versionamento de modelos
+- ☸️ Estrutura pronta para Kubeflow
+- 🐳 Docker
 
 ---
 
