@@ -106,11 +106,11 @@ kubectl apply -k "github.com/kubeflow/pipelines/manifests/kustomize/cluster-scop
 
 O pipeline pode incluir etapas como:
 
-ingestão de dados
-preprocessing
-treino
-avaliação
-deploy
+- ingestão de dados
+- preprocessing
+- treino
+- avaliação
+- deploy
 
 3️⃣ Executar Pipeline
 
