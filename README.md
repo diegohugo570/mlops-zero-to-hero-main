@@ -50,10 +50,10 @@ git clone <url-do-repositorio>
 cd mlops-zero-to-hero-main
 ```
 2️⃣ Criar Ambiente Virtual
-
+```
 python -m venv venv
 source venv/bin/activate  # Linux/Mac
-
+```
 Windows:
 ```
 venv\Scripts\activate
